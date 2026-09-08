@@ -1,0 +1,10 @@
+Flask
+Flask-Login
+Flask-Mail
+pymongo
+qrcode[pil]
+geopy
+python-dotenv
+Pillow
+bcrypt
+pytz
