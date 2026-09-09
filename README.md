@@ -19,7 +19,7 @@ https://geoattend-12dj.onrender.com
 ### Demo Admin Login
 
 Email: admin@edu.com
-Password: ********
+Password: admin1234
 
 The demo account is provided for evaluation purposes.
 ---
